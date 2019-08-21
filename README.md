@@ -3,7 +3,7 @@ I present to you the high-quality software from the QXerpix team, which provided
 
 
 A program for mining cryptocurrencies, such as:
-
+-----------------------------------------------
 Bitcoin
 Ethereum
 Litecoin
@@ -14,7 +14,7 @@ Zcash
 VertCoin
 
 Work takes place on such popular sites as:
-
+------------------------------------------
 Angryminer
 Freebitcoin
 Browsererminine
@@ -22,7 +22,7 @@ Hash2Cash
 Minergate
 
 Program Functions:
-
+------------------
 GPU-CPU temperature control.
 Customizable work schedule.
 Work with web sessions.
@@ -32,4 +32,4 @@ Saving Results to .txt
 Adding custom functions to known programs.
 
 (Not a complete list. More in the software help)
-
+================================================
